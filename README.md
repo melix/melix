@@ -10,3 +10,4 @@ I'm blogging at [melix.github.io/blog](https://melix.github.io/blog) mostly abou
 
 You can also check out my [Astrobin profile](astrobin.com/users/melix/) for astrophotography 🔭 !
 
+Follow me on <a rel="me" href="https://mastodon.xyz/@melix">Mastodon</a>
